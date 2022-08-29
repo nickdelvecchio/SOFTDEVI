@@ -2,8 +2,23 @@ Nicholas M Delvecchio JR.
 
 SOFTDEVI
 
-Creating Git
 
-What is 1+1
+What happened?
 
+The file moved from the main repository to a sub repository.
 
+What happened?
+
+The file got moved again through the workflow.
+
+Is the new directory present?
+
+Yes
+
+How many files of the "questions.txt" are present?
+
+1
+
+Explained why you think it happened?
+
+I think it happened because we just transferred the file from one part of the repository to another. Thus, since we didn't copy it, it only came up with 1 file.
